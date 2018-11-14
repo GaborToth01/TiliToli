@@ -1,0 +1,10 @@
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.Form1.resources
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+C:\Users\Gabo\source\repos\Sajat\Gyakorlas\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
